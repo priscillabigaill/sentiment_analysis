@@ -1,5 +1,7 @@
 # Sentiment Analysis Algorithm Benchmarking  
 
+[![Report](https://img.shields.io/badge/Report-Read-blue?logo=microsoft-word)](https://drive.google.com/file/d/1r7osbLJ7ZBkMASbXUtOhME_GEOy1cNjd/view?usp=sharing)
+
 ### Overview  
 This repository explores the comparative performance of text processing algorithms, **TF-IDF** and **Word2Vec**, for sentiment analysis in e-commerce datasets. The project evaluates the efficiency and effectiveness of these algorithms across various metrics to provide insights into their use cases.  
 
